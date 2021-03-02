@@ -11,7 +11,7 @@
 
 ## Links
 
-Project published at https://heuristic-booth-eec93b.netlify.app
+Project published on https://heuristic-booth-eec93b.netlify.app
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
