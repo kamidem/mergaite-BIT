@@ -15,12 +15,15 @@
       display: inline-block;
       width: 800px; 
       margin-left: calc((100% - 800px) / 2);
+      color: #9D9D9D;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
     header {
       display: inline-block;
       width: 100%;
-      margin-bottom: 20px;
+      margin-bottom: 40px;
+
     }
     header > img {
       display: inline-block;
@@ -33,17 +36,19 @@
       margin-right: 20px;
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       font-size: 12px;
+      margin-top: 15px;
     }
     a {
-      margin-right: 20px;
-      text-decoration: none;color: #9d9d9d;
-      line-height: 50px;
+      margin-left: 20px;
+      text-decoration: none;
+      color: #9d9d9d;
+      line-height: 20px;
     }
    
-    .sign-in {
+    a:last-of-type {
       border: 1px solid #9d9d9d;
       padding: 2px 15px;
-      border-radius: 15px
+      border-radius: 10px
     }
 
     section {
@@ -109,12 +114,16 @@
 <!--
 calc() - skaiciavimo funkcija (butini tarpai tarp zenklu)
 
-nuotrauku sorce visada pradet rasyt su ./
+nuotrauku sorce visada pradet rasyt su ./ kelias be . yra absoliutus kelias. kelias su . yra reliatyvus kelias.
 
  header > img   <-- tevo > vaikas
 
  vertikalius dydzius geriau matuoti ne procentais o pixeliais
 
- favicon - viena is dvieju detaliu kurias galim atvaizduot svetaines tabe; tai vienas dalykas icon ir title. favicon - favorite icon. anksciau 16.16px iki 36x36px dydzio budavo. dabar png.
+ favicon - viena is dvieju detaliu kurias galim atvaizduot svetaines tabe; tai vienas dalykas icon ir title. favicon - favorite icon. anksciau 16.16px iki 36x36px dydzio budavo. dabar png. add favicon <link rel="shortcut icon" href="./favicon.png" type="image/png">
+
+a:nth-of-type(2n) {} <-- kas antras jei 2n
+a:nth-of-type(3n+4) { } <-- prasideda nuo ketvirto, tada plius 3, plius 3...
+
 
 -->
