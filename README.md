@@ -2,13 +2,6 @@
 
 2nd project, BIT Full Stack Course
 
-## Project Features
-
-- HTML
-- CSS
-- relative paths
-- GitHub pages
-
 ## Links
 
 Project published on https://heuristic-booth-eec93b.netlify.app
