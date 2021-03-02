@@ -1,6 +1,6 @@
 # mergaite-BIT
 
-2nd project, BIT Full Stack Course
+2nd project, Full Stack Course @ BIT (Baltic Institute of Technology)
 
 ## Links
 
