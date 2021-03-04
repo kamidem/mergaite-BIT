@@ -4,9 +4,9 @@
 
 ## Links
 
-Project published on https://heuristic-booth-eec93b.netlify.app
+Project published on https://kamidem.github.io/mergaite-BIT/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+Project Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project features
 
